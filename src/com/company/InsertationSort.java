@@ -1,6 +1,9 @@
 package com.company;
 
 public class InsertationSort {
+    private InsertationSort(){
+
+    }
     public static double[] done(double[] sortingArray){
         double key;
         int j;
